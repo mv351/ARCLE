@@ -1,7 +1,5 @@
 **ARCLE**
 
-HackTJ 11.0 Team MASA Submission
-
 **Inspiration:**
 ARCLE, Augmented Reality Classroom Learning Experience, was born out of a passion for making education exciting and available to everyone, especially those who might face hurdles attending regular classes. This includes students with disabilities to those who simply don’t have access to school. By utilizing the technology of Augmented Reality (AR), ARCLE brings the classroom straight to students, making learning inclusive and awesome. Our mission? To empower students with disabilities, making education an immersive and interactive experience, no matter where they are.
 
